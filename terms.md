@@ -60,6 +60,6 @@ We may update these Terms from time to time. We will post changes on this page, 
 
 **15. Contact**
 
-If you have any questions about these Terms, please contact us at info@pointvibe.app.
+If you have any questions about these Terms, please contact us at contact@pointvibe.com.
 
 These Terms are effective as of 2026-06-07.
