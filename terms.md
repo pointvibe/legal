@@ -58,7 +58,19 @@ These Terms are governed by the laws of the Province of Ontario and the federal 
 
 We may update these Terms from time to time. We will post changes on this page, and your continued use of the service after changes take effect constitutes acceptance of the updated Terms.
 
-**15. Contact**
+**15. SMS/Text Messaging Program**
+
+Program: PointVibe (PointVibe Inc) sends automated, transactional text messages on its platform, including staff invitations, appointment booking confirmations, reminders and one-time verification codes, loyalty pass recovery codes, and waitlist notifications. Messages are sent only to people who provided their mobile number and consented to receive them.
+
+Message frequency varies. **Message and data rates may apply.**
+
+Reply **HELP** for help or **STOP** to unsubscribe at any time; after replying STOP you will receive one confirmation message and no further messages. For support, contact contact@pointvibe.com.
+
+Carriers are not liable for delayed or undelivered messages.
+
+See our [Privacy Policy](https://pointvibe.com/privacy-policy) for how we handle your mobile information. We do not sell or share your SMS opt-in data or personal information with third parties for marketing purposes.
+
+**16. Contact**
 
 If you have any questions about these Terms, please contact us at contact@pointvibe.com.
 

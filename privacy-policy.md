@@ -48,9 +48,19 @@ The Service Provider may disclose User Provided and Automatically Collected Info
 *   when they believe in good faith that disclosure is necessary to protect their rights, protect your safety or the safety of others, investigate fraud, or respond to a government request;
 *   with their trusted services providers who work on their behalf, do not have an independent use of the information we disclose to them, and have agreed to adhere to the rules set forth in this privacy statement.
 
+The above excludes text messaging originator opt-in data and consent; this information will not be shared with any third parties.
+
 **Opt-Out Rights**
 
 You can stop all collection of information by the Application easily by uninstalling it. You may use the standard uninstall processes as may be available as part of your mobile device or via the mobile application marketplace or network.
+
+**SMS/Text Messaging**
+
+When you provide your mobile number and opt in, PointVibe (PointVibe Inc) sends automated text messages such as account and membership notifications, booking confirmations, appointment reminders, one-time verification codes, and invitations. Message frequency varies. Message and data rates may apply.
+
+We do not sell or share your SMS opt-in data or personal information with third parties for marketing purposes. Your mobile number and messaging consent are used only to deliver the messages you signed up for.
+
+You can opt out at any time by replying STOP to any message, or reply HELP for help.
 
 **Data Retention Policy**
 
