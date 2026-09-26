@@ -52,6 +52,14 @@ The Service Provider may disclose User Provided and Automatically Collected Info
 
 You can stop all collection of information by the Application easily by uninstalling it. You may use the standard uninstall processes as may be available as part of your mobile device or via the mobile application marketplace or network.
 
+**SMS/Text Messaging**
+
+When you provide your mobile number and opt in, PointVibe (PointVibe Inc) sends automated text messages such as account and membership notifications, booking confirmations, appointment reminders, one-time verification codes, and invitations. Message frequency varies. Message and data rates may apply.
+
+We do not sell or share your SMS opt-in data or personal information with third parties for marketing purposes. Your mobile number and messaging consent are used only to deliver the messages you signed up for.
+
+You can opt out at any time by replying STOP to any message, or reply HELP for help.
+
 **Data Retention Policy**
 
 The Service Provider will retain User Provided data for as long as you use the Application and for a reasonable time thereafter. If you'd like them to delete User Provided Data that you have provided via the Application, please contact them at info@pointvibe.app and they will respond in a reasonable time.
