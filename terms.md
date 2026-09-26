@@ -64,7 +64,7 @@ Program: PointVibe (PointVibe Inc) sends automated, transactional text messages 
 
 Message frequency varies. **Message and data rates may apply.**
 
-Reply **HELP** for help or **STOP** to unsubscribe at any time; after replying STOP you will receive one confirmation message and no further messages. For support, contact info@pointvibe.app.
+Reply **HELP** for help or **STOP** to unsubscribe at any time; after replying STOP you will receive one confirmation message and no further messages. For support, contact contact@pointvibe.com.
 
 Carriers are not liable for delayed or undelivered messages.
 
@@ -72,6 +72,6 @@ See our [Privacy Policy](https://pointvibe.com/privacy-policy) for how we handle
 
 **16. Contact**
 
-If you have any questions about these Terms, please contact us at info@pointvibe.app.
+If you have any questions about these Terms, please contact us at contact@pointvibe.com.
 
 These Terms are effective as of 2026-06-07.
