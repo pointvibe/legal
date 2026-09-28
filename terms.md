@@ -20,7 +20,7 @@ When you connect a third-party service (such as Square, Clover, SendGrid, or Twi
 
 **5. Your Responsibilities and Customer Data**
 
-You are the controller of your customers' personal data. You represent that you have all necessary rights, notices, and consents (including consent for marketing messages sent via email, SMS, or WhatsApp) to collect that data and to have PointVibe process it on your behalf. You will comply with all applicable laws, including privacy, anti-spam, and consumer-protection laws.
+You are the controller of your customers' personal data. You represent that you have all necessary rights, notices, and consents to collect that data and to have PointVibe process it on your behalf. Any marketing message you send through PointVibe, by email or any other channel, requires the recipient's separate, express opt-in to marketing; that opt-in must be optional and must never be bundled with consent to transactional messages or made a condition of joining a program or booking. You will comply with all applicable laws, including privacy, anti-spam (such as CASL and the TCPA), and consumer-protection laws.
 
 **6. Acceptable Use**
 
@@ -60,18 +60,24 @@ We may update these Terms from time to time. We will post changes on this page, 
 
 **15. SMS/Text Messaging Program**
 
-Program: PointVibe (PointVibe Inc) sends automated, transactional text messages on its platform, including staff invitations, appointment booking confirmations, reminders and one-time verification codes, loyalty pass recovery codes, and waitlist notifications. Messages are sent only to people who provided their mobile number and consented to receive them.
+**Program name:** PointVibe Notifications, operated by PointVibe (PointVibe Inc).
 
-Message frequency varies. **Message and data rates may apply.**
+**Description:** PointVibe sends automated, transactional text messages to people who use businesses on the PointVibe platform: appointment booking confirmations, appointment reminders, one-time verification codes, loyalty pass recovery codes, waitlist offers, account notifications, and staff invitations. We do not send marketing or promotional text messages under this program.
 
-Reply **HELP** for help or **STOP** to unsubscribe at any time; after replying STOP you will receive one confirmation message and no further messages. For support, contact contact@pointvibe.com.
+**Opt-in:** you opt in by entering your mobile number and checking the SMS consent box on a PointVibe booking or loyalty-join page (the box is never pre-checked), or, for staff, by accepting an invitation from a business owner. Consent to receive text messages is not a condition of any purchase, booking or program membership.
+
+**Message frequency** varies based on your bookings and account activity. **Message and data rates may apply.**
+
+**Opt-out:** reply **STOP** to any message to unsubscribe at any time. You will receive one confirmation message and no further messages. To opt back in, reply **START**.
+
+**Help:** reply **HELP** for help, or contact contact@pointvibe.com.
 
 Carriers are not liable for delayed or undelivered messages.
 
-See our [Privacy Policy](https://pointvibe.com/privacy-policy) for how we handle your mobile information. We do not sell or share your SMS opt-in data or personal information with third parties for marketing purposes.
+**Privacy:** see our [Privacy Policy](https://pointvibe.com/privacy-policy). No mobile information will be shared with third parties or affiliates for marketing or promotional purposes. Text messaging originator opt-in data and consent will not be shared with any third parties.
 
 **16. Contact**
 
 If you have any questions about these Terms, please contact us at contact@pointvibe.com.
 
-These Terms are effective as of 2026-06-07.
+These Terms are effective as of 2026-06-07 and were last updated on 2026-09-28.

@@ -1,98 +1,81 @@
 **Privacy Policy**
 
-This privacy policy applies to the PointVibe app (hereby referred to as "Application") for mobile devices that was created by PointVibe (hereby referred to as "Service Provider") as a Free service. This service is intended for use "AS IS".
+This Privacy Policy explains how PointVibe Inc ("PointVibe", "we", "us") collects, uses, shares and protects personal information when you use pointvibe.com, the PointVibe merchant dashboard, the PointVibe mobile apps, and the booking and loyalty-join pages that businesses using PointVibe share with their customers (together, the "Service").
 
-**Information Collection and Use**
+**Who This Policy Covers**
 
-The Application collects information when you download and use it. This information may include information such as
+*   **Merchants** — businesses and their staff who create a PointVibe account to run loyalty programs, digital wallet passes and appointment booking.
+*   **Customers** — people who join a merchant's loyalty program, add a wallet pass, or book an appointment through a PointVibe page.
 
-*   Your device's Internet Protocol address (e.g. IP address)
-*   The pages of the Application that you visit, the time and date of your visit, the time spent on those pages
-*   The time spent on the Application
-*   The operating system you use on your mobile device
+For customer information processed on a merchant's behalf, the merchant is the data controller and PointVibe acts as its service provider (processor). We process that information only to run the merchant's program and never for our own marketing.
 
-The Application collects your device's location, which helps the Service Provider determine your approximate geographical location and make use of in below ways:
+**Information We Collect**
 
-*   Geolocation Services: The Service Provider utilizes location data to provide features such as personalized content, relevant recommendations, and location-based services.
-*   Analytics and Improvements: Aggregated and anonymized location data helps the Service Provider to analyze user behavior, identify trends, and improve the overall performance and functionality of the Application.
-*   Third-Party Services: Periodically, the Service Provider may transmit anonymized location data to external services. These services assist them in enhancing the Application and optimizing their offerings.
+*   **Information you give us:** name, email address, mobile phone number, birthday or anniversary (if a merchant's join form asks for it), preferred location, appointment details, and any messages you send us. For merchants, also business details, staff accounts and billing information (card payments are handled by Stripe; we never receive full card numbers).
+*   **Information from connected services:** when a merchant connects a point-of-sale system (such as Square or Clover), we read payment records (amount, time, location) and limited customer references solely to award loyalty points and show that merchant's analytics. We do not receive full payment card numbers or bank account details.
+*   **Device and usage information:** IP address, browser or device type, operating system, pages visited and the time of visits, used to operate, secure and improve the Service. The mobile apps may use your device's location, with your permission, to show nearby participating businesses and location-based pass notifications.
 
-The Application does not use Artificial Intelligence (AI) technologies to process your data or provide features.
+**How We Use Information**
 
-The Service Provider may use the information you provided to contact you from time to time to provide you with important information, required notices and marketing promotions.
+*   To provide the Service: issue and update wallet passes, track points and rewards, and create and manage bookings.
+*   To send messages you have asked for or agreed to, such as booking confirmations, appointment reminders, one-time verification codes, pass recovery codes and account notices (see **SMS/Text Messaging** below).
+*   To send marketing messages only where you have separately opted in to them. Marketing consent is always optional and is never a condition of joining a program or booking an appointment.
+*   To secure the Service, prevent fraud and abuse, provide support, and meet legal obligations.
 
-For a better experience, while using the Application, the Service Provider may require you to provide us with certain personally identifiable information, including but not limited to Email, Phone number, Birth Date, Location, Name. The information that the Service Provider request will be retained by them and used as described in this privacy policy.
+We do not sell personal information.
 
-**Merchant Platform and Connected Integrations**
+**How We Share Information**
 
-PointVibe also provides a platform that merchants use to run loyalty programs and issue Apple Wallet and Google Wallet passes to their customers. When a merchant connects a third-party service, PointVibe accesses only the data the merchant authorizes, using read-only permissions where applicable:
+We share personal information only in these limited ways:
 
-*   **Point-of-Sale (Square, Clover):** PointVibe reads payment records (such as amount, time, and store/location) and limited customer references (such as a customer identifier or email associated with a sale) solely to calculate and award loyalty points and to provide analytics for that merchant. PointVibe does **not** receive full payment card numbers or bank account details.
-*   **Messaging (SendGrid, Twilio):** when a merchant connects their own messaging account, PointVibe transmits message content and the recipient's address to that provider in order to deliver the merchant's notifications (email, SMS, or WhatsApp).
-*   **Wallet passes (Apple, Google):** PointVibe shares the information required to issue and update a customer's loyalty pass.
-
-For data processed through a merchant's loyalty program, the merchant is the data controller and PointVibe acts as a processor on the merchant's behalf. PointVibe does not sell this data and does not use it for any purpose other than operating that merchant's loyalty program. Credentials for connected services are stored encrypted and are never shared.
-
-**Third Party Access**
-
-Only aggregated, anonymized data is periodically transmitted to external services to aid the Service Provider in improving the Application and their service. The Service Provider may share your information with third parties in the ways that are described in this privacy statement.
-
-Please note that the Application utilizes third-party services that have their own Privacy Policy about handling data. Below are the links to the Privacy Policy of the third-party service providers used by the Application:
-
-*   [Google Play Services](https://www.google.com/policies/privacy/)
-*   [Expo](https://expo.io/privacy)
-
-The Service Provider may disclose User Provided and Automatically Collected Information:
-
-*   as required by law, such as to comply with a subpoena, or similar legal process;
-*   when they believe in good faith that disclosure is necessary to protect their rights, protect your safety or the safety of others, investigate fraud, or respond to a government request;
-*   with their trusted services providers who work on their behalf, do not have an independent use of the information we disclose to them, and have agreed to adhere to the rules set forth in this privacy statement.
-
-The above excludes text messaging originator opt-in data and consent; this information will not be shared with any third parties.
-
-**Opt-Out Rights**
-
-You can stop all collection of information by the Application easily by uninstalling it. You may use the standard uninstall processes as may be available as part of your mobile device or via the mobile application marketplace or network.
+*   **With the merchant** whose program you joined or with whom you booked, so they can provide their services to you.
+*   **With service providers** that run parts of the Service on our behalf under contract — for example cloud hosting (Google Cloud), payments (Stripe), email delivery (SendGrid), SMS delivery (Twilio), and wallet pass delivery (Apple and Google). They may use the information only to perform those services for us.
+*   **When required by law**, such as to comply with a subpoena or similar legal process, or when we believe in good faith that disclosure is necessary to protect our rights, your safety or the safety of others, or to investigate fraud.
+*   **In a business transfer**, such as a merger or acquisition, subject to this Policy.
 
 **SMS/Text Messaging**
 
-When you provide your mobile number and opt in, PointVibe (PointVibe Inc) sends automated text messages such as account and membership notifications, booking confirmations, appointment reminders, one-time verification codes, and invitations. Message frequency varies. Message and data rates may apply.
+When you provide your mobile number and check the SMS consent box, PointVibe (PointVibe Inc) sends automated text messages related to your membership or appointment: booking confirmations, appointment reminders, one-time verification codes, loyalty pass recovery codes, waitlist offers and account notifications. Staff members invited to a merchant's account may also receive an invitation text. Message frequency varies. Message and data rates may apply.
 
-We do not sell or share your SMS opt-in data or personal information with third parties for marketing purposes. Your mobile number and messaging consent are used only to deliver the messages you signed up for.
+Agreeing to receive text messages is not a condition of any purchase, booking or program membership.
 
-You can opt out at any time by replying STOP to any message, or reply HELP for help.
+No mobile information will be shared with third parties or affiliates for marketing or promotional purposes. Text messaging originator opt-in data and consent will not be shared with any third parties. Your mobile number is disclosed only to our SMS delivery provider for the sole purpose of delivering the messages you agreed to receive.
 
-**Data Retention Policy**
+Reply **STOP** to any message to opt out at any time, or **HELP** for help. You can also contact us at contact@pointvibe.com. See our [Terms of Service](https://pointvibe.com/terms-of-service) for the full SMS program terms.
 
-The Service Provider will retain User Provided data for as long as you use the Application and for a reasonable time thereafter. If you'd like them to delete User Provided Data that you have provided via the Application, please contact them at contact@pointvibe.com and they will respond in a reasonable time.
+**Your Choices and Rights**
 
-**Account Deletion**
+*   **Text messages:** reply STOP to opt out.
+*   **Emails:** use the unsubscribe link in any marketing email.
+*   **Wallet passes:** remove the pass from your wallet to stop pass updates and notifications.
+*   **Location:** turn off location permission in your device settings.
+*   **Access, correction and deletion:** email contact@pointvibe.com. Depending on where you live (for example under Canada's PIPEDA or applicable US state laws), you may have the right to access, correct or delete your personal information, or to withdraw consent. If your information was collected by a merchant, we may refer your request to that merchant and help them respond.
 
-To request account deletion, email us at contact@pointvibe.com. We will delete your account and associated data within 30 days.
+**Data Retention**
 
-**Children**
-
-The Service Provider does not use the Application to knowingly solicit data from or market to children under the age of 13.
-
-The Application does not address anyone under the age of 13\. The Service Provider does not knowingly collect personally identifiable information from children under 13 years of age. In the case the Service Provider discover that a child under 13 has provided personal information, the Service Provider will immediately delete this from their servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact the Service Provider (contact@pointvibe.com) so that they will be able to take the necessary actions.
+We keep personal information for as long as it is needed to provide the Service or as required by law. Merchants control how long their customer records are kept. To request deletion of your account and associated data, email contact@pointvibe.com; we will complete the request within 30 days.
 
 **Security**
 
-The Service Provider is concerned about safeguarding the confidentiality of your information. The Service Provider provides physical, electronic, and procedural safeguards to protect information the Service Provider processes and maintains.
+We use administrative, technical and physical safeguards to protect personal information, including encryption in transit and encryption of stored credentials for connected services. No method of transmission or storage is completely secure, but we work to protect your information and to respond promptly to any incident.
 
-**Changes**
+**Children**
 
-This Privacy Policy may be updated from time to time for any reason. The Service Provider will notify you of any changes to the Privacy Policy by updating this page with the new Privacy Policy. You are advised to consult this Privacy Policy regularly for any changes, as continued use is deemed approval of all changes.
+The Service is not directed to children under 13, and we do not knowingly collect personal information from children under 13. If you believe a child has given us personal information, contact contact@pointvibe.com and we will delete it.
 
-This privacy policy is effective as of 2026-03-23 and was last updated on 2026-06-07.
+**International Transfers**
 
-**Your Consent**
+PointVibe is based in Canada. Your information may be stored and processed in Canada, the United States or other countries where our service providers operate, which may have different data protection laws than your jurisdiction.
 
-By using the Application, you are consenting to the processing of your information as set forth in this Privacy Policy now and as amended by us.
+**Changes to This Policy**
+
+We may update this Policy from time to time. We will post the updated version on this page with a new "last updated" date, and where changes are material we will provide additional notice.
+
+This Privacy Policy is effective as of 2026-03-23 and was last updated on 2026-09-28.
 
 **Contact Us**
 
-If you have any questions regarding privacy while using the Application, or have questions about the practices, please contact the Service Provider via email at contact@pointvibe.com.
+PointVibe Inc — contact@pointvibe.com
 
 ---
 
